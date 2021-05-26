@@ -1,9 +1,9 @@
 # depslib dependency file v1.0
-1621531907 source:g:\programowanie\programs_c\macierze\main.c
+1622065903 source:g:\programowanie\programs_c\macierze\main.c
 	<stdio.h>
 	<stdlib.h>
 	"OperationsOnMatrixes.h"
 
-1621976341 g:\programowanie\programs_c\macierze\operationsonmatrixes.h
+1622067111 g:\programowanie\programs_c\macierze\operationsonmatrixes.h
 	<math.h>
 
