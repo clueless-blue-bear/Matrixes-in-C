@@ -7,3 +7,12 @@
 1622067111 g:\programowanie\programs_c\macierze\operationsonmatrixes.h
 	<math.h>
 
+1622068443 source:g:\programowanie\programs_c\matrixes_c\matrixes-in-c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"OperationsOnMatrixes.h"
+
+1622068443 g:\programowanie\programs_c\matrixes_c\matrixes-in-c\operationsonmatrixes.h
+	<math.h>
+	<string.h>
+
