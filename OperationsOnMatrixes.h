@@ -12,7 +12,7 @@ void BasicRowOperations(int h,int w,float arr[h][w]) // h(height) is the number 
 
     while(t > 0)
     {
-        Displayarr(w,h,arr);
+        Displayarr(h,w,arr);
         printf("\nWhat would you like to do with your arr?(Only row operations like this: row(input number) then after enter (+ or  -) (x times)row(number) \n");
             printf("Row");
             scanf("%d",&tmpAction1);
